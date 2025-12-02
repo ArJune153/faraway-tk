@@ -12,7 +12,7 @@
     </a>
     <a href="https://lin.ee/UZkJqYN" class="custom-button2">
         <i class="fas fa-comments"></i>  <!-- ไอคอนติดต่อแอดมิน -->
-        ติดต่อแอดมิน 12
+        ติดต่อแอดมิน
     </a>
 </div>
 
